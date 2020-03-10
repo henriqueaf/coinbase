@@ -1,6 +1,6 @@
 # Coinbase
 
-**TODO: Add description**
+**This application is based on an example originally published at https://medium.com/@alvisesus/realtime-market-data-updates-with-elixir-ce7d2b2b4d9e**
 
 ## Installation
 
